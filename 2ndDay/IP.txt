@@ -1,0 +1,4 @@
+www.google.com
+www.synechron.com
+portal.azure.com
+127.0.0.1

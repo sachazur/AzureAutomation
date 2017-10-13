@@ -1,0 +1,17 @@
+Hi sachin
+	This is Python training and its interesting stuff
+	Stuffs to do in Cloud will be easy
+	blue=sky
+	bangalore=traffic
+	black=night
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
+this is a new line
